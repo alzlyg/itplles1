@@ -1,0 +1,15 @@
+X:\_GeekBrains2024\ITPL\les1\Task1\bin\Debug\net6.0\Task1.exe
+X:\_GeekBrains2024\ITPL\les1\Task1\bin\Debug\net6.0\Task1.deps.json
+X:\_GeekBrains2024\ITPL\les1\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+X:\_GeekBrains2024\ITPL\les1\Task1\bin\Debug\net6.0\Task1.dll
+X:\_GeekBrains2024\ITPL\les1\Task1\bin\Debug\net6.0\Task1.pdb
+X:\_GeekBrains2024\ITPL\les1\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+X:\_GeekBrains2024\ITPL\les1\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+X:\_GeekBrains2024\ITPL\les1\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+X:\_GeekBrains2024\ITPL\les1\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+X:\_GeekBrains2024\ITPL\les1\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+X:\_GeekBrains2024\ITPL\les1\Task1\obj\Debug\net6.0\Task1.dll
+X:\_GeekBrains2024\ITPL\les1\Task1\obj\Debug\net6.0\refint\Task1.dll
+X:\_GeekBrains2024\ITPL\les1\Task1\obj\Debug\net6.0\Task1.pdb
+X:\_GeekBrains2024\ITPL\les1\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+X:\_GeekBrains2024\ITPL\les1\Task1\obj\Debug\net6.0\ref\Task1.dll
